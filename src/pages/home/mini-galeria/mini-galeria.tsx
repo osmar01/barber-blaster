@@ -6,14 +6,12 @@ import { Swiper, SwiperSlide } from "swiper/react";
 
 function MiniGaleria() {
   const data = [
-    { id: 1, img: "/src/assets/mini-galery/g1.jpg" },
-    { id: 2, img: "/src/assets/mini-galery/g2.jpg" },
-    { id: 3, img: "/src/assets/mini-galery/g3.jpg" },
-    { id: 4, img: "/src/assets/mini-galery/g4.jpg" },
-    { id: 5, img: "/src/assets/mini-galery/g5.jpg" },
-    { id: 6, img: "/src/assets/mini-galery/g6.jpg" },
-    { id: 7, img: "https://iili.io/dUn35Nt.jpg" },
-    { id: 8, img: "https://iili.io/dUn37DX.jpg" },
+    { id: 1, img: "https://iili.io/dU0EJfe.jpg" },
+    { id: 2, img: "https://iili.io/dU0EK5x.jpg" },
+    { id: 3, img: "https://iili.io/dU0EqbV.jpg" },
+    { id: 4, img: "https://iili.io/dU0E2Ub.jpg" },
+    { id: 5, img: "https://iili.io/dU0EFJj.jpg" },
+    { id: 6, img: "https://iili.io/dU0EK5x.jpg" },
     { id: 9, img: "https://iili.io/dUn3axn.jpg" },
   ];
 
