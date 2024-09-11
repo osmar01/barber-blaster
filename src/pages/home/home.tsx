@@ -36,13 +36,13 @@ function Home() {
               </div>
             </div>
             <div className="video">
-              {/* <iframe
+              <iframe
                 width={"100%"}
                 height={315}
                 src="https://www.youtube.com/embed/W18jsNa8KmA?si=CNimS1C_bh5QzOL7"
                 title="YouTube video player"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              ></iframe> */}
+              ></iframe>
             </div>
           </div>
         </div>
